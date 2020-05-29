@@ -1,0 +1,65 @@
+title: DevOps with GitHub Actions
+description: >-
+  Learn how to do DevOps on GitHub with the power of GitHub Actions! This path
+  will guide you through leveraging GitHub Actions to go from code to cloud.
+steps:
+  - course: 'githubtraining/github-actions:-hello-world'
+    description: >-
+      Automation is key for streamlining your work processes, and GitHub Actions
+      are the best way to supercharge your workflow. This quick introduction
+      will teach you  how to create a Docker-based action and write a workflow
+      to use the action.
+  - course: 'githubtraining/github-actions:-continuous-integration'
+    description: >-
+      GitHub Actions makes it easier than ever to incorporate continuous
+      integration (CI) into your repositories. ​ This course will get you from
+      zero-to-CI by setting up two workflow files to automate the way you work.
+  - course: 'githubtraining/github-actions:-publish-to-github-packages'
+    description: >-
+      GitHub Actions makes it easier than ever to incorporate continuous
+      delivery (CD) into your repositories. This course will teach you what is
+      needed to test and deliver artifacts that are ready for deployment.
+  - course: 'githubtraining/github-actions:-continuous-delivery-with-azure'
+    description: >-
+      This course is about continuous delivery, or CD, with GitHub Actions and
+      Azure. CD is a crucial part of modern software development, and it can
+      have a monumental impact on development projects.
+  - course: 'githubtraining/github-actions:-continuous-delivery-with-aws'
+    description: >-
+      This course is about continuous delivery, or CD, with GitHub Actions and
+      AWS. CD is a crucial part of modern software development, and it can have
+      a monumental impact on development projects.
+  - course: 'githubtraining/github-actions:-writing-javascript-actions'
+    description: >-
+      Over the duration of this course you will learn the skills needed to begin
+      using and customizing GitHub Actions to fit your unique workflow scenarios
+      by creating JavaScript-based actions.
+  - course: 'githubtraining/github-actions:-write-docker-container-actions'
+    description: >-
+      This course will teach you the skills needed to begin using and
+      customizing Docker container based actions to fit your unique workflow
+      scenarios by creating Docker-based actions.
+  - course: 'githubtraining/github-actions:-using-github-script'
+    description: >-
+      GitHub Script is a special action that allows using octokit/rest.js
+      directly in a workflow file. Over the duration of this course you will
+      learn the skills needed to begin using the GitHub Script action to
+      interact with your repository which will save you
+  - link: >-
+      https://help.github.com/en/actions/migrating-to-github-actions/migrating-from-azure-pipelines-to-github-actions
+    title: Migrating from Azure Pipelines to GitHub Actions
+    description: >-
+      This document from GitHub Help highlights the key differences between the
+      two platforms and explains how to approach a migration to GitHub Actions.
+  - link: >-
+      https://help.github.com/en/actions/migrating-to-github-actions/migrating-from-jenkins-to-github-actions
+    title: Migrating from Jenkins to GitHub Actions
+    description: >-
+      This document from GitHub Help highlights the key differences between the
+      two platforms and explains how to approach a migration to GitHub Actions.
+  - link: >-
+      https://help.github.com/en/actions/migrating-to-github-actions/migrating-from-circleci-to-github-actions
+    title: Mirating from CircleCI to GitHub Actions
+    description: >-
+      This document from GitHub Help highlights the key differences between the
+      two platforms and explains how to approach a migration to GitHub Actions.

@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: DevOps with GitHub Actions</h1>
 
-This repository powers the Learning Lab course [_DevOps with GitHub Actions_](https://lab.github.com/githubtraining/devops-with-github-actions). 
+This repository powers the Learning Path [_DevOps with GitHub Actions_](https://lab.github.com/githubtraining/devops-with-github-actions). 
 
 ## Contribute
 

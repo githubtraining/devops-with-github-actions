@@ -24,11 +24,6 @@ steps:
       This course is about continuous delivery, or CD, with GitHub Actions and
       Azure. CD is a crucial part of modern software development, and it can
       have a monumental impact on development projects.
-  - course: 'github-actions:-continuous-delivery-with-aws'
-    description: >-
-      This course is about continuous delivery, or CD, with GitHub Actions and
-      AWS. CD is a crucial part of modern software development, and it can have
-      a monumental impact on development projects.
   - course: 'github-actions:-writing-javascript-actions'
     description: >-
       Over the duration of this course you will learn the skills needed to begin
